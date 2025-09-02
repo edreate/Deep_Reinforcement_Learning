@@ -20,7 +20,7 @@ Controls (hold for continuous thrust):
 
 License:
   MIT License
-  Copyright (c) 2025 Edreate Institute LLP
+  Copyright (c) 2025 edreate.com
 """
 
 import gymnasium as gym
