@@ -59,14 +59,14 @@ uv run jupyter notebook
 </p>
 
 ### ✅ Available Now
-- [**Deep Q-Learning**](https://edreate.com/courses/deep-reinforcement-learning/deep-q-learning/deep-q-learning-scaling-beyond-q-tables/)  
+- [**Deep Q-Learning**]([https://edreate.com/courses/deep-reinforcement-learning/deep-q-learning/deep-q-learning-scaling-beyond-q-tables/](https://github.com/edreate/Deep_Reinforcement_Learning/blob/main/01_deep_q_learning.ipynb))  
   Learn how DQN scales beyond Q-tables and train agents directly with neural networks.
 
 ### 🔜 Coming Soon
 - **Vanilla Policy Gradient (VPG)** – direct optimization of stochastic policies  
 - **Actor–Critic (A2C)** – combining value functions with policy learning  
 - **Proximal Policy Optimization (PPO)** – stable, scalable policy gradients  
-- **Advanced Methods** – TRPO, SAC, DDPG, and more
+- **Advanced Methods** – SAC and more
 
 <p align="center">
   🚧 More lessons and code will be added as the course grows!
